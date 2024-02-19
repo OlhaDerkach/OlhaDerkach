@@ -1,9 +1,8 @@
 ## Hi, I’m Olha!
 
-* Former position: IT lawyer
-* Current position: QA tester
+* Current position: Software QA Engineer
 * Planned: QA automation
-* Key interests: Python, SQL, HTML, CSS, XML, JSON
+* Key interests: Java, SQL, HTML, CSS, XML, JSON, Cucumber
 
 #### My contacts: 
 
